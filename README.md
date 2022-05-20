@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ScartonPedro, i’m 22.
+- 👀 I’m interested in videogames, sports and traveling.
+- 🌱 I’m currently learning unit testing, advanced TypeScript.
+- 💞️ I’m working on Batuta by HumanApis
+- 📫 You can reach me at pedro@humanapis.io or pedroscartonr@gmail.com
