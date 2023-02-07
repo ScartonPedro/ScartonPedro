@@ -1,4 +1,4 @@
-![Hello](https://img.shields.io/badge/-Hello%20There-%57BDDA)
+![Hello](https://img.shields.io/badge/-Hello%20There-%2357BDDA)
 
 I'm a software engineer with 4 years of experience using modern technologies to design & develop user friendly platforms and with some powerfull solutions.
 
